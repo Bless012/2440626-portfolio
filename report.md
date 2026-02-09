@@ -1,0 +1,1 @@
+Here is a summary of what i have learned in lab 1, the difference between git and git hub is that git is a widely used version control system that manages and keeps track of code and github on the other had is a platform that host and manages the code. Html is used to define the skeleton of web and css is used to style
